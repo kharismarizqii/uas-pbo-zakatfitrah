@@ -1,4 +1,4 @@
-# UAS PBO Restaurant
+# UAS PBO Zakat Fitrah
 Percobaan penerapan konsep OOP menggunakan Hibernate pada Netbeans
 
 ### PBO A - Kelompok 2:
@@ -38,16 +38,14 @@ Percobaan penerapan konsep OOP menggunakan Hibernate pada Netbeans
    .../UAS-PBO/sql/
    ```
 7. Buka aplikasi Netbeans, lalu pilih dan jalankan **Login.java**, dengan cara (Pilih) :
-    - Pada sidebar kiri, buka package **main** lalu click kanan pada **MainInterface.java** dan pilih **Run File**
+    - Pada sidebar kiri, buka package **main** lalu click kanan pada **Login.java** dan pilih **Run File**
     - Pada tab Run (diantara **Refactor** dan **Debug**), click **Run Project**, dan pilih **Login.java** sebagai class utama
     
-_Anda dapat pula membuild project dengan cara mengclick_ __Clean and Build Project__ _pada tab_ __Run__ _, sehingga jika anda ingin menjalankan aplikasi ini tidak perlu membuka Netbeans, namun cukup dengan menjalankan_ __UAS-PBO.jar__ _yang berada pada direktori build berada, default :_
-    ```
-       .../UAS-PBO/dist/UAS-PBO.jar
-    ```
+_Anda dapat pula membuild project dengan cara mengclick_ __Clean and Build Project__ _pada tab_ __Run__ _, sehingga jika anda ingin menjalankan aplikasi ini tidak perlu membuka Netbeans, namun cukup dengan menjalankan_ __UAS-PBO.jar__ _yang berada pada direktori build berada, 
     
 ## Keterangan Menggunakan Aplikasi
 - Username dan Password
+
   Username: 1177050059 || Pass: kgdwfjrc123
   
   Username: 1177050072 || Pass: 12345
