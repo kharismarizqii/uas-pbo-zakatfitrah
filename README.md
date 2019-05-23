@@ -1,5 +1,5 @@
 # UAS PBO Restaurant
-Percobaan penerapan konsep OOP dan implementasi JDBC antara Java dan Mysql
+Percobaan penerapan konsep OOP menggunakan Hibernate pada Netbeans
 
 ### PBO A - Kelompok 2:
 - Kharisma Rizqi Bakhittah      (1177050059)
@@ -51,7 +51,7 @@ _Anda dapat pula membuild project dengan cara mengclick_ __Clean and Build Proje
   Username: 1177050059 || Pass: kgdwfjrc123
   Username: 1177050072 || Pass: 12345
   Username: 1177050018 || Pass: 12345
-- Lebih detailnya dapat dilihat pada [User Manual](https://github.com/Falskim/uas-pbo-restaurant/blob/master/USER%20MANUAL.pdf)    
+- Lebih detailnya dapat dilihat pada [User Manual](https://github.com/kharismarizqii/UAS-PBOZakatFitrah/blob/master/USER_MANUAL.pdf)    
 
 ## TL;DR
 Clone project ini, buat database baru bernama **zakat**, import file **zakat.sql** yang terdapat pada folder /sql/, lalu run **Login.java** melalui netbeans
