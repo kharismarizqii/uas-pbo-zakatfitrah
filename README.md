@@ -41,7 +41,10 @@ Percobaan penerapan konsep OOP menggunakan Hibernate pada Netbeans
     - Pada sidebar kiri, buka package **main** lalu click kanan pada **Login.java** dan pilih **Run File**
     - Pada tab Run (diantara **Refactor** dan **Debug**), click **Run Project**, dan pilih **Login.java** sebagai class utama
     
-_Anda dapat pula membuild project dengan cara mengclick_ __Clean and Build Project__ _pada tab_ __Run__ _, sehingga jika anda ingin menjalankan aplikasi ini tidak perlu membuka Netbeans, namun cukup dengan menjalankan_ __UAS-PBO.jar__ _yang berada pada direktori build berada, 
+_Anda dapat pula membuild project dengan cara mengclick_ __Clean and Build Project__ _pada tab_ __Run__ _, sehingga jika anda ingin menjalankan aplikasi ini tidak perlu membuka Netbeans, namun cukup dengan menjalankan_ __ZakatFitrah.jar__ _yang berada pada direktori build berada, namun cukup dengan menjalankan_ __ZakatFitrah.jar__ _yang berada pada direktori build berada, default :_
+    ```
+       .../ZakatFitrah/dist/ZakatFitrah.jar
+    ```
     
 ## Keterangan Menggunakan Aplikasi
 - Username dan Password
