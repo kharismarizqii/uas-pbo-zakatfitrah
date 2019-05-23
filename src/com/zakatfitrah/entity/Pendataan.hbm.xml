@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated May 18, 2019 12:34:28 PM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="com.zakatfitrah.entity.Pendataan" table="pendataan" catalog="zakat" optimistic-lock="version">
+        <id name="no" type="java.lang.Integer">
+            <column name="no" />
+            <generator class="identity" />
+        </id>
+        <property name="namaKk" type="string">
+            <column name="namaKK" length="50" not-null="true" />
+        </property>
+        <property name="jenisZakat" type="string">
+            <column name="jenis_zakat" length="50" not-null="true" />
+        </property>
+        <property name="jumlahAnggota" type="string">
+            <column name="jumlah_anggota" length="50" not-null="true" />
+        </property>
+        <property name="beras" type="string">
+            <column name="beras" length="50" not-null="true" />
+        </property>
+        <property name="uang" type="string">
+            <column name="uang" length="50" not-null="true" />
+        </property>
+        <property name="keterangan" type="string">
+            <column name="keterangan" length="255" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>
