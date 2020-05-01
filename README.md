@@ -48,8 +48,6 @@ _Anda dapat pula membuild project dengan cara mengclick_ __Clean and Build Proje
     
 ## Keterangan Menggunakan Aplikasi
 - Username dan Password
-
-  Username: 1177050059 || Pass: kgdwfjrc123
   
   Username: 1177050072 || Pass: 12345
   
